@@ -4,4 +4,4 @@
 for install
 npm-i
 
-for install serverr first start nodemon
+for install server first start nodemon
